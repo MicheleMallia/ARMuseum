@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context="com.michele.testQuadriAR.MainActivity">
+
+
+    <TextView
+        android:id="@+id/textRepo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Repository"
+        android:textSize="18sp" />
+
+    <Spinner
+        android:id="@+id/spinRepo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/repo"
+        android:paddingTop="10dp" />
+
+    <Spinner
+        android:id="@+id/spinCat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/catmember"
+        android:paddingTop="40dp" />
+
+    <EditText
+        android:id="@+id/artist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Es: Picasso"
+        android:inputType="textPersonName"
+        android:paddingTop="40dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="40dp"
+        android:text="Select number of images"
+        android:textSize="18sp" />
+
+    <Spinner
+        android:id="@+id/spiNum"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/number"/>
+
+    <Button
+        android:id="@+id/startUnity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Extract Link" />
+</LinearLayout>

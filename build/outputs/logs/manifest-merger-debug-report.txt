@@ -1,0 +1,254 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:2:1-107:12
+INJECTED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:2:1-107:12
+INJECTED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:2:1-107:12
+INJECTED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:2:1-107:12
+MERGED from [:VuforiaWrapper:] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/a417ef506c7dd7d4e1d5215cd5799b55/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/dac0cf33c64b082917ed2f0cd46155f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/8f2cdfc8a64d70bf4fc5700cba9ec476/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/483a638ca8486d283204b714b700e49b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/5742cb96cc757cbb9b54ab981eb0b5a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/247074eb20ed69b64cd3335c4a09a548/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/71285002970ae7cc70f99c7fc38153fa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/fae93eb91ebdd4ad449e8ceeb1aa4c12/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/915b6dc61a94f76fab78c84b3c4c94fd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/08bc7dc7d36fa7027bd72d00a4ce1066/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:2:1-107:12
+INJECTED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:2:1-107:12
+INJECTED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:2:1-107:12
+	package
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:4:5-39
+		INJECTED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml
+		INJECTED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:7:5-30
+		INJECTED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml
+		INJECTED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:6:5-28
+		INJECTED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml
+		INJECTED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:5:5-45
+uses-sdk
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [:VuforiaWrapper:] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/a417ef506c7dd7d4e1d5215cd5799b55/AndroidManifest.xml:8:5-10:41
+MERGED from [:VuforiaWrapper:] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/a417ef506c7dd7d4e1d5215cd5799b55/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/dac0cf33c64b082917ed2f0cd46155f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/dac0cf33c64b082917ed2f0cd46155f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/8f2cdfc8a64d70bf4fc5700cba9ec476/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/8f2cdfc8a64d70bf4fc5700cba9ec476/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/483a638ca8486d283204b714b700e49b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/483a638ca8486d283204b714b700e49b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/5742cb96cc757cbb9b54ab981eb0b5a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/5742cb96cc757cbb9b54ab981eb0b5a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/247074eb20ed69b64cd3335c4a09a548/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/247074eb20ed69b64cd3335c4a09a548/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/71285002970ae7cc70f99c7fc38153fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/71285002970ae7cc70f99c7fc38153fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/fae93eb91ebdd4ad449e8ceeb1aa4c12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/fae93eb91ebdd4ad449e8ceeb1aa4c12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/915b6dc61a94f76fab78c84b3c4c94fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/915b6dc61a94f76fab78c84b3c4c94fd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/08bc7dc7d36fa7027bd72d00a4ce1066/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/08bc7dc7d36fa7027bd72d00a4ce1066/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:9:5-11:41
+	android:targetSdkVersion
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:11:9-38
+		INJECTED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml
+		INJECTED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:10:9-35
+supports-screens
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:13:5-18:40
+	android:largeScreens
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:15:9-36
+	android:smallScreens
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:17:9-36
+	android:normalScreens
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:16:9-37
+	android:xlargeScreens
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:18:9-37
+	android:anyDensity
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:14:9-34
+uses-feature#0x00020000
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:20:5-54
+	android:glEsVersion
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:20:19-51
+uses-permission#android.permission.INTERNET
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:22:5-67
+MERGED from [:VuforiaWrapper:] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/a417ef506c7dd7d4e1d5215cd5799b55/AndroidManifest.xml:14:5-67
+MERGED from [:VuforiaWrapper:] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/a417ef506c7dd7d4e1d5215cd5799b55/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:22:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:23:5-65
+MERGED from [:VuforiaWrapper:] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/a417ef506c7dd7d4e1d5215cd5799b55/AndroidManifest.xml:15:5-65
+MERGED from [:VuforiaWrapper:] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/a417ef506c7dd7d4e1d5215cd5799b55/AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:23:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:25:5-27:36
+MERGED from [:VuforiaWrapper:] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/a417ef506c7dd7d4e1d5215cd5799b55/AndroidManifest.xml:12:5-60
+MERGED from [:VuforiaWrapper:] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/a417ef506c7dd7d4e1d5215cd5799b55/AndroidManifest.xml:12:5-60
+	android:required
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:27:9-33
+		MERGED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:29:9-57
+uses-feature#android.hardware.camera.front
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:31:5-33:36
+	android:required
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:33:9-33
+	android:name
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:32:9-53
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:35:5-37:38
+MERGED from [:VuforiaWrapper:] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/a417ef506c7dd7d4e1d5215cd5799b55/AndroidManifest.xml:17:5-81
+MERGED from [:VuforiaWrapper:] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/a417ef506c7dd7d4e1d5215cd5799b55/AndroidManifest.xml:17:5-81
+	android:maxSdkVersion
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:37:9-35
+	android:name
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:36:9-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:38:5-40:38
+	android:maxSdkVersion
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:40:9-35
+	android:name
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:39:9-64
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:42:5-44:36
+	android:required
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:44:9-33
+	android:name
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:43:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:45:5-47:36
+	android:required
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:47:9-33
+	android:name
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:46:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:48:5-50:36
+	android:required
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:50:9-33
+	android:name
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:49:9-72
+uses-feature#android.software.leanback
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:51:5-53:36
+	android:required
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:53:9-33
+	android:name
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:52:9-49
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:55:5-75
+	android:name
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:55:22-72
+application
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:57:5-105:19
+MERGED from [:VuforiaWrapper:] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/a417ef506c7dd7d4e1d5215cd5799b55/AndroidManifest.xml:19:5-25:19
+MERGED from [:VuforiaWrapper:] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/a417ef506c7dd7d4e1d5215cd5799b55/AndroidManifest.xml:19:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/8f2cdfc8a64d70bf4fc5700cba9ec476/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/8f2cdfc8a64d70bf4fc5700cba9ec476/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:61:9-41
+	android:debuggable
+		ADDED from [:VuforiaWrapper:] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/a417ef506c7dd7d4e1d5215cd5799b55/AndroidManifest.xml:19:18-44
+	android:icon
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:59:9-42
+	android:banner
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:58:9-46
+	android:theme
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:62:9-50
+	android:isGame
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:60:9-30
+activity#com.michele.testQuadriAR.UnityPlayerActivity
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:63:9-80:20
+	android:screenOrientation
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:68:13-51
+	android:label
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:66:13-45
+	android:launchMode
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:67:13-44
+	android:configChanges
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:65:13-194
+	android:name
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:64:13-48
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:77:13-79:40
+	android:value
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:79:17-37
+	android:name
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:78:17-57
+meta-data#unity.build-id
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:82:9-84:68
+	android:value
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:84:13-65
+	android:name
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:83:13-42
+meta-data#unity.splash-mode
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:85:9-87:33
+	android:value
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:87:13-30
+	android:name
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:86:13-45
+meta-data#unity.splash-enable
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:88:9-90:36
+	android:value
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:90:13-33
+	android:name
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:89:13-47
+meta-data#android.max_aspect
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:91:9-93:35
+	android:value
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:93:13-32
+	android:name
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:92:13-46
+activity#com.michele.testQuadriAR.MainActivity
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:95:9-102:20
+	android:name
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:95:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:96:13-101:29
+action#android.intent.action.MAIN
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:97:17-69
+	android:name
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:97:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:99:17-77
+	android:name
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:99:27-74
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:100:17-86
+	android:name
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:100:27-83
+activity#com.michele.testQuadriAR.Main2Activity
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:103:9-51
+	android:name
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:103:19-48
+activity#com.michele.testQuadriAR.Main3Activity
+ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:104:9-60
+	android:name
+		ADDED from /Users/michelemallia/Downloads/Robe della tesi - 5-01-2016/testMuseoAR3/testQuadriAR/src/main/AndroidManifest.xml:104:19-48
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:VuforiaWrapper:] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/a417ef506c7dd7d4e1d5215cd5799b55/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from [:VuforiaWrapper:] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/a417ef506c7dd7d4e1d5215cd5799b55/AndroidManifest.xml:16:22-76
+uses-library#com.osterhoutgroup.api.ext
+ADDED from [:VuforiaWrapper:] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/a417ef506c7dd7d4e1d5215cd5799b55/AndroidManifest.xml:22:9-24:40
+	android:required
+		ADDED from [:VuforiaWrapper:] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/a417ef506c7dd7d4e1d5215cd5799b55/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [:VuforiaWrapper:] /Users/michelemallia/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/a417ef506c7dd7d4e1d5215cd5799b55/AndroidManifest.xml:23:13-54
